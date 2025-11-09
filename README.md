@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sahil+Sarawgi!;" />
 </h1>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif"/>
+</div>
+
 <h3 align="center">A passionate explorer, always eager to learn new things.</h3>
 
 <br/>
