@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I'm a 2nd-year student at **Newton School Of Technology**
+ 🔭 I'm a 3rd-year student at **Newton School Of Technology**
  
  🌱 I’m currently learning **Next.js, Node.js, DBMS, Backend**
 
