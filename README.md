@@ -47,7 +47,7 @@ Full Stack Engineer | AI Platform Builder | Automation Enthusiast
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,graphql,python,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,graphql,python,java,azure" />
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma,vscode" />
 
