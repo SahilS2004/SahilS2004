@@ -1,5 +1,7 @@
+# 👋 Hi, I'm Sahil Sarawgi
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sahil+Sarawgi;Full+Stack+Engineer+%26+AI+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sahil+Sarawgi;Full+Stack+%26+AI+Engineer;Building+Agentic+AI+Systems;Turning+Ideas+Into+Production" />
 </h1>
 
 <div align="center">
@@ -7,20 +9,28 @@
 </div>
 
 <h3 align="center">
-Full Stack Engineer | AI/ML Builder | Production Systems
+  Full Stack Engineer | Agentic AI Engineer | AI Automation Developer
 </h3>
 
 <br/>
 
 <div align="center">
 
-🔭 **Full Stack Engineer** building production-grade platforms, AI systems & developer products
-🎓 B.Tech **Computer Science & AI** student at **Newton School of Technology**
-🚀 Built and shipped **end-to-end products**, AI agents, RAG systems, admin platforms & Chrome extensions
-🤖 Interested in **LLM Engineering, RAG, AI Agents, Computer Vision & Cloud Architecture**
+🔭 Building **production-grade AI systems, intelligent agents & automation platforms**
 
-💬 Ask me about **Full Stack Development, AI/ML, RAG, AI Agents, AWS, Azure & Cloud Systems**
-⚡ Fun fact: The first computer “bug” was an actual moth found in 1947 🐛
+🎓 Final Year B.Tech **Computer Science & AI** @ Newton School of Technology (2023–2027)
+
+🤖 Working on **Agentic AI, AI Voice Agents, LLM Engineering & Intelligent Automation**
+
+🚀 Experienced in building and shipping full-stack products, SaaS platforms, Chrome extensions and AI-powered applications.
+
+🧠 Strong focus on **Full-Stack Architecture, DSA, System Design & Production Engineering**
+
+💡 Interested in solving real-world problems through AI, automation and scalable software.
+
+💬 Ask me about **Full Stack Development, RAG, AI Agents, Voice AI, LLMs, Cloud Architecture & System Design**
+
+⚡ Fun fact: I love turning complex ideas into working products!
 
 </div>
 
@@ -41,57 +51,43 @@ Full Stack Engineer | AI/ML Builder | Production Systems
 <hr/>
 
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
-<br/>
 
 <div align="center">
 
-<!-- Languages -->
+### Languages
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,sql,html,css" />
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,sql,html,css" />
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind" />
 
-<br/>
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" />
 
-<!-- Frontend -->
+### Cloud, Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,redis,githubactions,git,github" />
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind" />
-
-<br/>
-
-<!-- Backend -->
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-<br/>
-
-<!-- Cloud & DevOps -->
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,git,github" />
-
-<br/>
-
-<!-- Tools -->
-
-<img src="https://skillicons.dev/icons?i=postman" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=postman,firebase,supabase" />
 
 </div>
 
 <br/>
 
-<h3 align="center">🤖 AI / ML</h3>
+<h3 align="center">🤖 AI / ML / Agentic Engineering</h3>
 
 <div align="center">
 
-RAG • Vector Embeddings • Hugging Face • PyTorch • Vision Transformers • Scikit-learn • OpenCV • AI Agents
+LLM Engineering • RAG Pipelines • AI Agents • Agentic Workflows • Voice AI • Retell AI • Prompt Engineering • Tool Calling • Knowledge Base Engineering • Vector Embeddings • Hugging Face • PyTorch • Computer Vision • OpenCV • Scikit-learn
 
 </div>
 
 <br/>
 
-<h3 align="center">🗄️ Databases & Data</h3>
+<h3 align="center">🗄️ Databases & Data Engineering</h3>
 
 <div align="center">
 
-PostgreSQL • MySQL • MongoDB • Firebase • Pinecone • Elasticsearch
+PostgreSQL • MySQL • MongoDB • Firebase • Pinecone • Redis • Elasticsearch • Vector Databases
 
 </div>
 
@@ -99,72 +95,69 @@ PostgreSQL • MySQL • MongoDB • Firebase • Pinecone • Elasticsearch
 
 <hr/>
 
-<h2 align="center">🚀 What I Love Building</h2>
+<h2 align="center">🚀 What I'm Currently Building & Exploring</h2>
 
 <div align="center">
 
-✔ Production-grade full-stack applications & admin platforms
-✔ AI-powered systems & document reasoning agents
-✔ RAG pipelines & intelligent knowledge-base applications
-✔ Computer Vision & anomaly detection systems
-✔ Chrome extensions & cross-platform applications
-✔ Scalable APIs, databases & cloud infrastructure
+✔ Production-ready AI Voice Agents and conversational systems
+
+✔ Intelligent automation using LLMs, APIs and tool orchestration
+
+✔ Multi-agent workflows and AI-powered business automation
+
+✔ RAG pipelines and knowledge-grounded AI applications
+
+✔ Scalable full-stack SaaS platforms and backend architectures
+
+✔ AI evaluation, agent testing and production reliability
+
+✔ Computer Vision and anomaly detection systems
+
+✔ System Design, DSA and scalable distributed architectures
 
 </div>
 
 <br/>
 
 <hr/>
-
-<h2 align="center">🔥 Featured Projects</h2>
-
-<div align="center">
-
-### 🤖 Flare GPT
-
-**Serverless AI SaaS platform for chatting with personal documents**
-
-`Cloudflare Workers` `Workers AI` `Vectorize` `Queues` `AI Gateway` `RAG`
-
-Built a scalable RAG pipeline that lets users upload documents and interact with an AI agent powered by their personal knowledge base.
 
 ---
 
-### 🔍 PeakAI
-
-**LinkedIn contact lookup platform**
-
-`React` `Chrome Extension` `Backend` `Database` `Cloud`
-
-Solely built and deployed PeakAI across a Chrome extension, web application and admin dashboard, owning the product lifecycle from architecture to deployment.
-
-💰 Scaled the product to approximately **₹1.5L/month in revenue**
-
----
-
-### 🚦 Smart Traffic Anomaly Detection
-
-**AI-powered surveillance anomaly detection system**
-
-`Python` `PyTorch` `Vision Transformer` `Scikit-learn` `OpenCV`
-
-Built a computer vision system using ViT feature extraction and Isolation Forest to identify traffic congestion and potential accidents and generate timestamped anomaly reports.
-
-</div>
-
-<br/>
-
-<hr/>
-
-<h2 align="center">💼 Experience</h2>
+<h2 align="center">📊 GitHub Contribution Activity</h2>
 
 <div align="center">
 
-**Full Stack Engineer — Next Bharat Ventures**
-Production platforms • CRM • AI Agents • AI Evaluation Systems • Cloud
+<!-- GitHub Contribution Heatmap -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahilS2004&theme=github-compact&hide_border=true&area=true" />
 
-**Full Stack Engineer — SayF**
-PeakAI • Chrome Extensions • SaaS Products • Product Development
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SahilS2004&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilS2004&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+<br/>
+
+<hr/>
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<div align="center">
+
+### Full Stack Engineer — Next Bharat Ventures
+Production Applications • Full-Stack Development • AI Systems • Automation
+
+### Full Stack Engineer — SayF
+PeakAI • Chrome Extensions • SaaS Development • Product Engineering
+
+### AI & Automation Engineering
+Production Voice Agents • Retell AI • Agent Workflows • Knowledge Bases • AI Evaluation
 
 </div>
 
@@ -172,4 +165,26 @@ PeakAI • Chrome Extensions • SaaS Products • Product Development
 
 <hr/>
 
-<h3 align="center">Always Building. Always Learning. Always Shipping. 🚀</h3>
+<h2 align="center">🧠 My Engineering Interests</h2>
+
+<div align="center">
+
+- Building software that solves real business problems.
+- Designing scalable backend systems and distributed architectures.
+- Making LLM applications reliable enough for production.
+- Exploring agentic workflows and autonomous AI systems.
+- Understanding systems deeply rather than just implementing features.
+
+</div>
+
+<br/>
+
+<hr/>
+
+<h3 align="center">
+  Always Building. Always Learning. Always Shipping. 🚀
+</h3>
+
+<h4 align="center">
+  Let's build something impactful together!
+</h4>
