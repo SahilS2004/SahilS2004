@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Sahil Sarawgi
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sahil+Sarawgi;Full+Stack+%26+AI+Engineer;Building+Agentic+AI+Systems;Turning+Ideas+Into+Production" />
 </h1>
@@ -121,19 +119,38 @@ PostgreSQL • MySQL • MongoDB • Firebase • Pinecone • Redis • Elastic
 
 <hr/>
 
----
-
 <h2 align="center">📊 GitHub Contribution Activity</h2>
 
 <div align="center">
 
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="./dist/github-snake.svg" width="100%">
+  <img alt="GitHub Contribution Graph" src="./dist/github-snake.svg" width="100%">
 </picture>
 
+<br/><br/>
+
+<!-- GitHub Statistics -->
+
+<div align="center">
+
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
+
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+
 </div>
+
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=SahilS2004&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<hr/>
 
 <br/>
 
