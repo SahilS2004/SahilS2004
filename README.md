@@ -127,21 +127,14 @@ PostgreSQL • MySQL • MongoDB • Firebase • Pinecone • Redis • Elastic
 
 <div align="center">
 
-<!-- GitHub Contribution Heatmap -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahilS2004&theme=github-compact&hide_border=true&area=true" />
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SahilS2004&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilS2004&layout=compact&theme=github_dark&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="./dist/github-snake.svg" width="100%">
+</picture>
 
 </div>
 
-<br/>
-
----
 <br/>
 
 <hr/>
