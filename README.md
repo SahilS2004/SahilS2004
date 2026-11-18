@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sahil+Sarawgi;Full+Stack+%26+AI+Engineer;Building+Agentic+AI+Systems;Turning+Ideas+Into+Production" />
 </h1>
 
-![](https://komarev.com/ghpvc/?username=SahilS2004&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
-
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" width="400"/>
